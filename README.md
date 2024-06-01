@@ -1,4 +1,5 @@
-## Hi there 👋
+# Maki Janus
+![Profile views](https://komarev.com/ghpvc/?username=makiJanus&color=blueviolet)
 
 <!--
 **makiJanus/makiJanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
