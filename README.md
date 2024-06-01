@@ -1,6 +1,6 @@
 # Maki Janus
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-168363?style=for-the-badge&logo=Nvidia&logoColor=white)
