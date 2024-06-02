@@ -11,6 +11,9 @@
 	<p style="text-align: justify;">
 	    I'm an Electronic Engineer with a passion for robotics and AI projects. I always enjoy reading sci-fi and fantasy books. We can't cast fireballs or summon golems, but isn't engineering the magic of our world? This is my journey as a mage of our times!
 	</p>
+	<p style="text-align: justify;">
+	    Visit my Website clicking the image!!
+	</p>
 	<a href="https://www.magical-engineering.com">
 		<img src="images/website-placeholder.png" alt="Your Website" style="width: 50%;">
 	</a>
