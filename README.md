@@ -5,6 +5,7 @@
 	    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 	    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 	    <img src="https://img.shields.io/badge/Isaac%20Sim-168363?style=for-the-badge&logo=Nvidia&logoColor=white" alt="Isaac Sim">
+	    <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS">
 	    <img src="https://img.shields.io/badge/Fusion%20360-FFB387?style=for-the-badge&logo=autodesk&logoColor=black" alt="Fusion 360">
 	    <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
 	</p>
